@@ -15,6 +15,7 @@
 		A36B72A70F754B5D0013B314 /* AtlasSprite.m in Sources */ = {isa = PBXBuildFile; fileRef = A36B72A40F754B5D0013B314 /* AtlasSprite.m */; };
 		A36B72A80F754B5D0013B314 /* AtlasSpriteManager.m in Sources */ = {isa = PBXBuildFile; fileRef = A36B72A60F754B5D0013B314 /* AtlasSpriteManager.m */; };
 		A36B72AB0F754B690013B314 /* CocosNodeExtras.m in Sources */ = {isa = PBXBuildFile; fileRef = A36B72AA0F754B690013B314 /* CocosNodeExtras.m */; };
+		A388292A0F898FF30047EA30 /* ColorSprite.png in Resources */ = {isa = PBXBuildFile; fileRef = A38829290F898FF30047EA30 /* ColorSprite.png */; };
 		A3ADE0580F4FC71500C1396D /* Action.m in Sources */ = {isa = PBXBuildFile; fileRef = A3ADDFB90F4FC71400C1396D /* Action.m */; };
 		A3ADE0590F4FC71600C1396D /* AtlasNode.m in Sources */ = {isa = PBXBuildFile; fileRef = A3ADDFBB0F4FC71400C1396D /* AtlasNode.m */; };
 		A3ADE05A0F4FC71600C1396D /* Camera.m in Sources */ = {isa = PBXBuildFile; fileRef = A3ADDFBD0F4FC71400C1396D /* Camera.m */; };
@@ -109,6 +110,7 @@
 		A36B72A60F754B5D0013B314 /* AtlasSpriteManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AtlasSpriteManager.m; sourceTree = "<group>"; };
 		A36B72A90F754B690013B314 /* CocosNodeExtras.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CocosNodeExtras.h; sourceTree = "<group>"; };
 		A36B72AA0F754B690013B314 /* CocosNodeExtras.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CocosNodeExtras.m; sourceTree = "<group>"; };
+		A38829290F898FF30047EA30 /* ColorSprite.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ColorSprite.png; sourceTree = "<group>"; };
 		A3ADDFB80F4FC71400C1396D /* Action.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Action.h; sourceTree = "<group>"; };
 		A3ADDFB90F4FC71400C1396D /* Action.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Action.m; sourceTree = "<group>"; };
 		A3ADDFBA0F4FC71400C1396D /* AtlasNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AtlasNode.h; sourceTree = "<group>"; };
@@ -312,6 +314,7 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				A38829290F898FF30047EA30 /* ColorSprite.png */,
 				BEC5EC540EC7343E000B181B /* menu.png */,
 				BEC5EC4D0EC73409000B181B /* fps_images.png */,
 				BE3514960EC693C60054FAA8 /* game.png */,
@@ -625,6 +628,7 @@
 				A3ADE0900F4FC71600C1396D /* LICENSE.txt in Resources */,
 				A3ADE0910F4FC71600C1396D /* README.txt in Resources */,
 				A3ADE0930F4FC71600C1396D /* CMakeLists.txt in Resources */,
+				A388292A0F898FF30047EA30 /* ColorSprite.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
