@@ -1,7 +1,7 @@
 # Cocos2d-iphone Sprite Coloration Demo
 
 For more information on this project (including screenshots & some pithy narrative) check out the corresponding post at my blog:
-http://lukehatcher.com/2009/04/coloring-sprites-with-cocos2d-iphone/
+[http://lukehatcher.com/2009/04/coloring-sprites-with-cocos2d-iphone/](http://lukehatcher.com/2009/04/coloring-sprites-with-cocos2d-iphone/)
 
 ## License
 
